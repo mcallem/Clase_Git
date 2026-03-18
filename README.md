@@ -21,6 +21,16 @@ Profesor/a — "Bienvenidos a la clase de Git 👋"
 
 <!-- Añade tu línea aquí debajo -->
 
+
+
+
+
+
+
+
+
+
+
 Flujo de trabajo visto en clase
 Fork → Clone → Branch → Editar → Commit → Push → Pull Request → Merge
 
