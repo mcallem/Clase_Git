@@ -1,6 +1,6 @@
 # Actividad práctica
 
-En este directorio cada coder deberá de enviar su README.md anteriormente creado bajo el siguiente formato: "juan_perez.md" 
+En este directorio cada coder deberá de enviar su README.md anteriormente creado bajo el siguiente formato: "perfil-inicio-juan_perez.md" 
 siguiendo el siguiente flujo profesional de Git.
 
 ## Flujo completo:
