@@ -26,7 +26,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María José**: 
 
--**María Adriana**:
+-**Adriana**: ¡Feliz de estar por aquí!
 
 -**Javier Ángel**:
 
