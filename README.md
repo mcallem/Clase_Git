@@ -54,7 +54,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**David**: Yamete
 
--**María Jesús**:
+-**María Jesús**: "La terminal me hace más caso que Phyton"
 
 -**Yohanna**: Esto es una prueba!
 
