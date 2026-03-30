@@ -66,7 +66,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Gema**: Eureka
 
--**Tatiana**:
+-**Tatiana**: "PRUEBA1"
 
 -**Melissa**:
 
