@@ -28,7 +28,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Adriana**: ¡Feliz de estar por aquí!
 
--**Javier Ángel**:
+-**Javier**: 3.14159265358979323846
 
 -**Gianmario**: ¡Bienvenido a Github!
 
