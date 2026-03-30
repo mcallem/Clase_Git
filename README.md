@@ -62,7 +62,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Laura SR**:
 
--**Isabella**:
+-**Isabella**: "Cada error corregido nos lleva un paso mas cerca del futuro"
 
 -**Gema**:
 
