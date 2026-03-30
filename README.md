@@ -58,7 +58,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Yohanna**: Esto es una prueba!
 
--**Elizabeth**:
+-**Elizabeth**: "Un camino de mil millas, se empieza por un sólo paso."
 
 -**Laura SR**:
 
