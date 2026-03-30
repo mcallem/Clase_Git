@@ -28,7 +28,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María Adriana**:
 
--**Javier Ángel**:
+-**Javier**: 3.14159265358979323846
 
 -**Gianmario**:
 
