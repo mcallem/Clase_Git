@@ -44,7 +44,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Elena Fernández**:
 
--**Vanessa**:
+-**Vanessa**: "Good things are coming"
 
 -**Verónica**:
 
