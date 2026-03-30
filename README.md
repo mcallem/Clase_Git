@@ -50,7 +50,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**José Manuel**:
 
--**Pedro Leonardo**:
+-**Leo**: Suitability
 
 -**David**:
 
