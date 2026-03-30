@@ -30,7 +30,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Javier Ángel**:
 
--**Gianmario**:
+-**Gianmario**: ¡Bienvenido a Github!
 
 -**María Elena**:
 
