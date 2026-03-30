@@ -34,7 +34,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María Elena**:
 
--**Helena DM**:
+-**Helena DM**: "Esto es una prueba - Elena Diaz"
 
 -**María Isabel**: "Realizado ok"
 
