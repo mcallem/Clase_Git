@@ -36,7 +36,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Helena DM**:
 
--**María Isabel**:
+-**María Isabel**: "Realizado ok"
 
 -**Luis Ahmedel**:
 
