@@ -1,4 +1,4 @@
-
+øOøøO
 # Clase_Git
 Clase de Git y GitHub 🚀
 Bienvenido/a a este repositorio de práctica.
@@ -46,7 +46,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Vanessa**: "Good things are coming"
 
--**Verónica**:
+-**Verónica**:"Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar… un dinosaurio"
 
 -**José Manuel**: Hola Amigos!
 
