@@ -64,7 +64,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Isabella**: "Cada error corregido nos lleva un paso mas cerca del futuro"
 
--**Gema**:
+-**Gema**: Eureka
 
 -**Tatiana**:
 
