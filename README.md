@@ -60,7 +60,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Elizabeth**: "Un camino de mil millas, se empieza por un sólo paso."
 
--**Laura SR**:
+-**Laura SR**: "Hoy puede ser un gran dia!"
 
 -**Isabella**: "Cada error corregido nos lleva un paso mas cerca del futuro"
 
