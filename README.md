@@ -38,7 +38,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María Isabel**: "Realizado ok"
 
--**Luis Ahmedel**:
+-**Luis Ahmedel**: "Esto es una prueba"
 
 -**Anas Fady**:
 
