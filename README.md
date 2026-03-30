@@ -56,7 +56,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**María Jesús**:
 
--**Yohanna**:
+-**Yohanna**: Esto es una prueba!
 
 -**Elizabeth**:
 
