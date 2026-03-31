@@ -76,7 +76,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Efrain Peña:**
 
--**José Ibarra**:
+-**José Melo**:
 
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
