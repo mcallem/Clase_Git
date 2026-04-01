@@ -74,7 +74,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Joel Ibarra**:
 
--**Efrain Peña:**
+-**Efrain Peña:** Hola Mundo
 
 -**José Melo**:
 
