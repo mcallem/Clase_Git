@@ -1,4 +1,4 @@
-øOøøO
+
 # Clase_Git
 Clase de Git y GitHub 🚀
 Bienvenido/a a este repositorio de práctica.
@@ -24,59 +24,43 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 <!-- Añade tu línea aquí debajo -->
 
--**Mariajosé**: "Hola, mundo" 
+-**Roberto**: 
 
--**Adriana**: ¡Feliz de estar por aquí!
+-**Alejandra**: 
 
--**Javier**: 3.14159265358979323846
+-**Oscar**: 
 
--**Gianmario**: ¡Bienvenido a Github!
+-**Sara**:
 
--**María Elena**: por fin
+-**Nayibeth**:
 
--**Helena DM**: "Esto es una prueba - Elena Diaz"
+-**Jean Paul**: 
 
--**María Isabel**: "Realizado ok"
+-**Violeta**: 
 
--**Luis Ahmedel**: "Esto es una prueba"
+-**María Pilar**: 
 
--**Anas Fady**:
+-**David**:
 
--**Elena Fernández**:
+-**Luisa**:
 
--**Vanessa**: "Good things are coming"
+-**Karen**: 
 
--**Verónica**:"Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar… un dinosaurio"
+-**Sebastián**:
 
--**José Manuel**: Hola Amigos!
+-**Kira**:
 
--**Leo**: Suitability
+-**William**:
 
--**David**: Yamete
+-**Susana**: 
 
--**María Jesús**: "La terminal me hace más caso que Phyton"
+-**Francisco**:
 
--**Yohanna**: Esto es una prueba!
+-**Jesmy**:
 
--**Elizabeth**: "Un camino de mil millas, se empieza por un sólo paso."
+-**Doramas**:
 
--**Laura SR**: "Hoy puede ser un gran dia!"
-
--**Isabella**: "Cada error corregido nos lleva un paso mas cerca del futuro"
-
--**Gema**: Eureka
-
--**Tatiana**: "PRUEBA1"
-
--**Melissa**:
-
--**Abdur**:
-
--**Joel Ibarra**:
-
--**Efrain Peña:**
-
--**José Melo**:
+-**Adolfo**: 
 
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
