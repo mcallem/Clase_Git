@@ -69,8 +69,5 @@ Flujo de trabajo visto en clase
 
 ### Recursos útiles
 
-[Documentación oficial de Git] (https://git-scm.com/docs/git/es)
- 
-
-[Cheatsheet de comandos Git] (chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
-
+- [Documentación oficial de Git](https://git-scm.com/docs/git/es)
+- [Cheatsheet de comandos Git](https://training.github.com/downloads/es_ES/github-git-cheat-sheet.pdf)
