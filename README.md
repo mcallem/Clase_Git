@@ -62,6 +62,8 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Adolfo**: 
 
+-**Melissa**:
+
 Flujo de trabajo visto en clase
 **Fork** → **Clone** → **Branch** → **Editar** → **Commit** → **Push** → **Pull Request** → **Merge**
 
