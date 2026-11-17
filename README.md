@@ -36,11 +36,11 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Jean Paul**: 
 
--**Violeta**: 
+-**Violeta**:
 
 -**María Pilar**: Laboratorio Git
 
--**David**:
+-**David**: Hola mundo, ya me he incorporado 
 
 -**Luisa**:
 
