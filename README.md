@@ -30,7 +30,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Oscar**: 
 
--**Sara**:
+-**Sara**: Hola, buenas.
 
 -**Nayibeth**:
 
