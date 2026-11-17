@@ -26,7 +26,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Roberto**: 
 
--**Alejandra**: 
+-**Alejandra**: Hola  intento 1000000  no me rindo hehe  
 
 -**Oscar**: 
 
