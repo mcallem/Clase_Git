@@ -1,4 +1,3 @@
-
 # Clase_Git
 Clase de Git y GitHub 🚀
 Bienvenido/a a este repositorio de práctica.
@@ -32,7 +31,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Sara**: Hola, buenas.
 
--**Nayibeth**:
+-**Nayibeth**: Bon Voyage!
 
 -**Jean Paul**: 
 
