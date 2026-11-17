@@ -50,7 +50,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Kira**:
 
--**William**:
+-**William**: Hola Mundo de Git
 
 -**Susana**: Aprendizaje Git 
 
