@@ -42,7 +42,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**David**:
 
--**Luisa**:
+-**Luisa**:Git fluye
 
 -**Karen**: 
 
