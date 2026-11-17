@@ -46,7 +46,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Karen**: 
 
--**Sebastián**:
+-**Sebastián**: Hola soy, arquitecto de soluciones. ¡Encantado!
 
 -**Kira**:
 
