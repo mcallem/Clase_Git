@@ -30,17 +30,17 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Oscar**: *Ya descansaremos cuando estemos muertos*
 
--**Sara**:
+-**Sara**: Hola, buenas.
 
 -**Nayibeth**:
 
 -**Jean Paul**: 
 
--**Violeta**: 
+-**Violeta**:
 
--**María Pilar**: 
+-**María Pilar**: Laboratorio Git
 
--**David**:
+-**David**: Hola mundo, ya me he incorporado 
 
 -**Luisa**:
 
