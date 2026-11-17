@@ -36,7 +36,11 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Jean Paul**: 
 
+<<<<<<< HEAD
+-**Violeta**: Aprendiendo git 
+=======
 -**Violeta**:
+>>>>>>> c9a8e37636e8ea48b84b9cbfca0b482d086f059f
 
 -**María Pilar**: Laboratorio Git
 
