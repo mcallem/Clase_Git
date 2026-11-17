@@ -50,7 +50,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Karen**: Buenos dias a todos, seguimos aprendiendo. 
 
--**Sebastián**:
+-**Sebastián**: Hola soy, arquitecto de soluciones. ¡Encantado!
 
 -**Kira**:
 
