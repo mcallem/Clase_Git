@@ -30,21 +30,21 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Oscar**: 
 
--**Sara**:
+-**Sara**: Hola, buenas.
 
 -**Nayibeth**:
 
 -**Jean Paul**: 
 
--**Violeta**: 
+-**Violeta**:
 
--**María Pilar**: 
+-**María Pilar**: Laboratorio Git
 
--**David**:
+-**David**: Hola mundo, ya me he incorporado 
 
 -**Luisa**:
 
--**Karen**: 
+-**Karen**: Buenos dias a todos, seguimos aprendiendo. 
 
 -**Sebastián**:
 
