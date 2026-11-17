@@ -54,7 +54,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Susana**: 
 
--**Francisco**:
+-**Francisco**: Primeros pasos Git
 
 -**Jesmy**:
 
