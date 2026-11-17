@@ -38,7 +38,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Violeta**: 
 
--**María Pilar**: 
+-**María Pilar**: Aprendizaje Git
 
 -**David**:
 
