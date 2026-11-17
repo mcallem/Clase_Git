@@ -44,13 +44,13 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Luisa**:
 
--**Karen**: 
+-**Karen**: Buenos dias a todos, seguimos aprendiendo. 
 
 -**Sebastián**:
 
 -**Kira**:
 
--**William**:
+-**William**: Hola Mundo de Git
 
 -**Susana**: 
 
