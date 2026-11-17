@@ -52,7 +52,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**William**:
 
--**Susana**: 
+-**Susana**: Aprendizaje Git 
 
 -**Francisco**:
 
