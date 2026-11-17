@@ -28,7 +28,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Alejandra**: 
 
--**Oscar**: 
+-**Oscar**: *Ya descansaremos cuando estemos muertos*
 
 -**Sara**: Hola, buenas.
 
