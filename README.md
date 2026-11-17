@@ -46,7 +46,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**David**: Hola mundo, ya me he incorporado 
 
--**Luisa**:
+-**Luisa**:Git fluye
 
 -**Karen**: Buenos dias a todos, seguimos aprendiendo. 
 
