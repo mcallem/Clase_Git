@@ -3,4 +3,4 @@
 ¿Por qué estoy en este bootcamp? Porque quiero mejorar mis habilidades, enriquecer mi portafolio y buscar mejores oportunidades laborales 
 ¿Dónde me veo en 9 meses? Me veo haciendo entrevistas de trabajo, me veo con un portafolio enriquecido y con  mayor confianza en mi misma 
 Una cosa que me da curiosidad de la IA: Como por medio de sus modelo puede mejorar los procesos 
-
+Final
