@@ -14,3 +14,5 @@ Terminando el bootcamp y haciendo entrevistas de trabajo.
 
 Una cosa que me da curiosidad de la IA.
 La capacidad de automatizar y crear mis propias herramientas de trabajo.
+
+..
