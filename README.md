@@ -63,7 +63,7 @@ Cada participante añade una línea con su nombre y una frase corta.
 
 -**Doramas**:
 
--**Adolfo**: 
+-**Adolfo**:Hola a todos, cada dia aprendo, lo lograremos si creemos 
 
 -**Melissa**:
 
